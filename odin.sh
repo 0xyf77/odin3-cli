@@ -53,7 +53,6 @@ function main() {
 
   if $is_a_b; then
     fastboot boot "$file"
-    echo "Please manually install the recovery ramdisk from the custom recovery menu when the device boots."
   else
     fastboot flash recovery "$file"
     fastboot reboot
