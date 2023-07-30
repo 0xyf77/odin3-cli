@@ -1,2 +1,12 @@
 # odin3-cli
-command line version of odin
+
+open source version of odin command line interface.
+
+# build
+
+if you're on unix just use shc
+
+# thanks to 
+
+[SDK Platform Tools](https://developer.android.com) for adb and fastboot
+
