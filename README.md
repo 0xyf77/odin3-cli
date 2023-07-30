@@ -8,5 +8,5 @@ if you're on unix just use shc
 
 # thanks to 
 
-[SDK Platform Tools](https://developer.android.com) for adb and fastboot
+[Android Platform Tools](https://developer.android.com) for adb and fastboot
 
