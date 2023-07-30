@@ -35,7 +35,7 @@ while [[ $# -gt 0 ]]; do
         file="$1"
         break
       else
-        echo "[e] no file selected"
+        echo "[e] no input file name"
         exit 1
       fi
       ;;
