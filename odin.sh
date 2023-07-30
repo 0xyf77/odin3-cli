@@ -10,7 +10,7 @@ echo ██║░░██║██║░░██║██║██║╚██
 echo ╚█████╔╝██████╔╝██║██║░╚███║██████╔╝
 echo ░╚════╝░╚═════╝░╚═╝╚═╝░░╚══╝╚═════╝░
 
-  echo "Usage: ./odin.sh [recovery.img]"
+  echo "Usage: $0 [recovery.img]"
   echo "Options:"
   echo "  -h            shows this screen"
   echo "  -v            prints version"
