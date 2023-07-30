@@ -1,6 +1,6 @@
 # odin3-cli
 
-open source version of odin command line interface.
+odin but for unix and cli
 
 # build
 
