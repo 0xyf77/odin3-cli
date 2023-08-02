@@ -49,6 +49,8 @@ if adb shell getprop ro.boot.slot_suffix | grep "_b" >/dev/null; then
 fi
 
 function main() {
+  echo "WARNING WARNING WARNING!!!! ARE YOU SURE YOU WANT TO DO THIS? I'M NOT RESPONSIBLE IF YOUR DEVICE GETS BORKED"
+  read
   adb reboot bootloader
 
   if $is_a_b; then
